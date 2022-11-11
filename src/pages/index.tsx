@@ -11,6 +11,10 @@ const Home: NextPage = () => {
         <div className='w-16 h-16 bg-red-200'></div>
         <div className='p-8'>Vs</div>
         <div className='w-16 h-16 bg-red-200'></div>
+        <div className=''></div>
+        <div className=''></div>
+        <div className=''></div>
+        <div className=''></div>
       </div>
     </div>
   )
