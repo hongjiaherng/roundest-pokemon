@@ -55,6 +55,7 @@ const Home: NextPage = () => {
 
 				<div className="p-2" />
 			</div>
+
 		</div>
 	);
 };
